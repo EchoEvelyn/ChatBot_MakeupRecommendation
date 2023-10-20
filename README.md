@@ -5,7 +5,7 @@ This is my virtual ChatBot, Beauty Consultant, built on the OpenAI language mode
 Here are some screenshots about the work of Beauty Consultant:
 
 - user has to input their own unique API key:
-<img width="1436" alt="Screen Shot 2023-10-19 at 8 54 39 PM" src="https://github.com/EchoEvelyn/ChatBot_MakeupRecommendation/assets/133063078/a89966bf-1498-4cb9-99a3-f5f6b9671f81">
+<img width="800" alt="Screen Shot 2023-10-19 at 8 54 39 PM" src="https://github.com/EchoEvelyn/ChatBot_MakeupRecommendation/assets/133063078/a89966bf-1498-4cb9-99a3-f5f6b9671f81">
 
 - after entering correct API key, user can upload one CSV file:
 <img width="1431" alt="Screen Shot 2023-10-19 at 8 54 51 PM" src="https://github.com/EchoEvelyn/ChatBot_MakeupRecommendation/assets/133063078/1ec31b80-ca59-4750-96da-42e99ba04081">
